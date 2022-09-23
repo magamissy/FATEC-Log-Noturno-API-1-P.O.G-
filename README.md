@@ -2,7 +2,7 @@
  
 # FATEC-Log-Noturno-API-1-P.O.G - Petróleo, óleo e gás.
  
-... Acompanhamento do processo de aprendizagem por projeto integrador analisando a cadeia produtiva do setor de petróleo, óleo e gás na região do Vale do Paraíba. Trabalho pertencente a matéria de API do 1° Semestre de Logística/2022 pela FATEC SJC
+... Acompanhamento do processo de aprendizagem por projeto integrador analisando a cadeia produtiva do setor de petróleo, óleo e gás na região do Vale do Paraíba. Trabalho pertencente a matéria de API do 1° Semestre de Logística/2022 pela FATEC SJC.
  
  
 # Tecnologias 
@@ -20,26 +20,26 @@ Aqui estão as ferramentas que usamos no desenvolvimento desse projeto.
   
 # Etapas do projeto 
 * Sprint 1:
->    $ Presentation 14/09/22
+>     Presentation 14/09/22
 * Protótipo de interação dos dados que permita caracterizar a cadeia produtiva escolhida (e.g, relacionar os principais produtos e serviços por municípios da RMVale)
 * Protótipo de coleta de dados automatizados
 * Apresentação da Cadeia Produtiva a ser trabalhada pelo grupo (Definida pelo Cliente)
 
 *Sprint 2:
->   $ Presentation 18/09/22
+>    Presentation 18/09/22
 *	Banco de dados estruturado inserido na Power Plataform
 * Criação de mapa interativo da Cadeia Produtiva
 * Principais países de origem das importações da Cadeia Produtiva (com detalhamento de volumes importados)
 * Principais países de destina das exportações da Cadeia Produtiva (com detalhamento de volumes exportados)
 
 * Sprint 3:
->   $ Presentation 16/11
+>    Presentation 16/11
 * Análise da evolução de exportações e importações por SH4 (valor FOB e quantidade em toneladas)
 * Mapeamento das principais vias utilizadas para processamento de importações e exportações (e.g, quais aeroportos?)
 
 
 * Sprint 4:
->   $ Presentation 30/11
+>    Presentation 30/11
 * Dashboard final interativo na Power Plataform com resumo dos dados integrados
 
 
