@@ -25,7 +25,7 @@ Aqui estão as ferramentas que usamos no desenvolvimento desse projeto.
 * Protótipo de coleta de dados automatizados
 * Apresentação da Cadeia Produtiva a ser trabalhada pelo grupo (Definida pelo Cliente)
 
-*Sprint 2:
+* Sprint 2:
 >    Presentation 18/09/22
 *	Banco de dados estruturado inserido na Power Plataform
 * Criação de mapa interativo da Cadeia Produtiva
@@ -54,7 +54,7 @@ O objetivo final do projeto é criar uma base de dados automatizada e interativa
  
 # Composição do projeto
  
-  - Banco de Dados Técnicos, extraídos vía Comex Stats.
+  - Banco de Dados Técnicos, extraídos via Comex Stats.
   - Trabalho de conclusão de projeto, extraídos via pesquisa de campo e referências bibliográficas.
   -  Dashboard Interativo, via Power Plataform
   -  App virtual de análise de dados, via Power Apps
@@ -69,14 +69,11 @@ O objetivo final do projeto é criar uma base de dados automatizada e interativa
  um membro de nossa equipe diretamente ao invés de usar o issue tracker. 
  
  
-# Realizadores
--Centro Paula Souza
-
--FATEC - Faculdade de Tecnologia de São José dos Campos Prof. Jessen Vidal
-
--Professores do corpo docente da turma de Logística/2022, Noturno
- 
-1° Semestre / Inicio em Agosto de 2022
+# Agradecimentos
+* Centro Paula Souza
+* FATEC - Faculdade de Tecnologia de São José dos Campos Prof. Jessen Vidal
+* Professores do corpo docente da turma de Logística/2022, Noturno
+* Turma do 1° Semestre / Inicio em Agosto de 2022
  
  
 # AUTORES
@@ -90,5 +87,4 @@ O objetivo final do projeto é criar uma base de dados automatizada e interativa
  
 
 Obrigado por nos visitar, good coding! 
-
 Thanks to visiting me and good coding!
