@@ -1,4 +1,4 @@
-![Logo of the project](http://logo_link)
+![magamissy](https://user-images.githubusercontent.com/114114602/191888834-f3e327b0-4347-4f2c-9741-d9069acc6cf0.png)
  
 # FATEC-Log-Noturno-API-1-P.O.G - Petróleo, óleo e gás.
  
