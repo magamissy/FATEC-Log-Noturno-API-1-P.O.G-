@@ -70,9 +70,11 @@ O objetivo final do projeto é criar uma base de dados automatizada e interativa
  
  
 # Realizadores
-Centro Paula Souza
-FATEC - Faculdade de Tecnologia de São José dos Campos Prof. Jessen Vidal
-Professores do corpo docente da turma de Logística/2022, Noturno
+-Centro Paula Souza
+
+-FATEC - Faculdade de Tecnologia de São José dos Campos Prof. Jessen Vidal
+
+-Professores do corpo docente da turma de Logística/2022, Noturno
  
 1° Semestre / Inicio em Agosto de 2022
  
