@@ -26,7 +26,7 @@ Aqui estão as ferramentas que usamos no desenvolvimento desse projeto.
 * Apresentação da Cadeia Produtiva a ser trabalhada pelo grupo (Definida pelo Cliente)
 
 * Sprint 2:
->    Presentation 18/09/22
+>    Presentation 18/10/22
 *	Banco de dados estruturado inserido na Power Plataform
 * Criação de mapa interativo da Cadeia Produtiva
 * Principais países de origem das importações da Cadeia Produtiva (com detalhamento de volumes importados)
