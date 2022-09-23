@@ -87,4 +87,4 @@ O objetivo final do projeto é criar uma base de dados automatizada e interativa
  
 
 Obrigado por nos visitar, good coding! 
-Thanks to visiting me and good coding!
+Thanks to visiting us and good coding!
