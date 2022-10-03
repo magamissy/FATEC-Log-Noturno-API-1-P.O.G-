@@ -1,0 +1,28 @@
+# Sprint 1:
+>   Apresentação realizada no dia 14/09/22
+
+**Objetivos:**
+* Protótipo de interação dos dados que permita caracterizar a cadeia produtiva escolhida (e.g, relacionar os principais produtos e serviços por municípios da RMVale)
+* Protótipo de coleta de dados automatizados
+* Apresentação da Cadeia Produtiva a ser trabalhada pelo grupo (Definida pelo Cliente)
+
+# Cadeia Produtiva escolhida pelo cliente:
+A Cadeia Produtiva escolhida pelo cliente foi a do setor de Petróleo, Óleo e Gás. 
+Analisaremos os dados de importação; exportação; volume/peso kg e valor FOB, nas seguintes cidades da RMVale:
+* São José dos Campos;
+* Taubaté;
+* Caçapava;
+* São Sebastião;
+* Ilhabela;
+* Jacareí;
+* Garantinguetá.
+
+# Protótipo de Interação dos dados coletados:
+Dados coletados através do Comex Stats
+Interação disponilizada através de aplicação via Power Apps (indisponível para acesso no momento)
+
+# Apresentação da Cadeia Produtiva trabalhada pelo Grupo: 
+A apresentação elaborada pelo grupo pode ser encontrada através do seguinte link:
+https://tinyurl.com/pptxSprint1
+
+> A Sprint 1 foi realizada e está finalizada com sucesso!
