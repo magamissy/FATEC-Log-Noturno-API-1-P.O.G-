@@ -19,7 +19,8 @@ Analisaremos os dados de importação; exportação; volume/peso kg e valor FOB,
 
 # Protótipo de Interação dos dados coletados:
 Dados coletados através do Comex Stats
-Interação disponilizada através de aplicação via Power Apps (indisponível para acesso no momento)
+Interação disponilizada através de aplicação via Power Apps
+> Link direto para o protótipo da Sprint 1: https://tinyurl.com/AppSprint1
 
 # Apresentação da Cadeia Produtiva trabalhada pelo Grupo: 
 A apresentação elaborada pelo grupo pode ser encontrada através do seguinte link:
