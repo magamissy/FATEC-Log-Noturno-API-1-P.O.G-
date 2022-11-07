@@ -62,11 +62,12 @@ O objetivo final do projeto é criar uma base de dados automatizada e interativa
  
  
 # Links  
- 
-  - Link do aplicativo: (not final software)
   - Repositório: https://github.com/magamissy/FATEC-Log-Noturno-API-1-P.O.G- 
-    - Em casos de falha do funcionamento dos arquivos e aplicações presentes, por favor contatar
- um membro de nossa equipe diretamente ao invés de usar o issue tracker. 
+  - Sprint 1: https://github.com/magamissy/FATEC-Log-Noturno-API-1-P.O.G-/blob/head/Sprint%201.md
+  - Sprint 2: https://github.com/magamissy/FATEC-Log-Noturno-API-1-P.O.G-/blob/head/Sprint%202.md
+  
+    _Em casos de falha do funcionamento dos arquivos e aplicações presentes, por favor contatar
+ um membro de nossa equipe diretamente ao invés de usar o issue tracker._
  
  
 # Agradecimentos
@@ -86,5 +87,5 @@ O objetivo final do projeto é criar uma base de dados automatizada e interativa
 *  **EDSON INEAS**: (edson.ineas@fatec.sp.gov.br)
  
 
-Obrigado por nos visitar, good coding! 
-Thanks to visiting us and good coding!
+**Obrigado por nos visitar, good coding!**
+**Thanks to visiting us and good coding!**
