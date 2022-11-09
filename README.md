@@ -79,12 +79,23 @@ O objetivo final do projeto é criar uma base de dados automatizada e interativa
  
 # AUTORES
  
-* **ANA CAROLINA RAMOS**: @magamissy (ana.cordeiros@fatec.sp.gov.br) - Scrum Master
-*  **FERNANDO SIQUEIRA**:  @dagfernados (fernando.alves18@fatec.sp.gov.br) - P.O
-*  **KAROLINE DE PAULA**: @keronferreira (karoline.ferreira@fatec.sp.gov.br)
-*  **RICARDO DE JESUS**: @350869 (ricardo.moura12@fatec.sp.gov.br)
-*  **AYRTON DIEGO**: @xxxayrton (ayrton.nogueira@fatec.sp.gov.br)
-*  **EDSON INEAS**: (edson.ineas@fatec.sp.gov.br)
+ ![Autores - Miss_resized](https://user-images.githubusercontent.com/114114602/200706315-f4500d80-6bf9-43af-8e0b-bcbb3524d501.jpg)
+* **ANA CAROLINA RAMOS**: @magamissy (www.linkedin.com/in/ramosac) - Scrum Master
+
+![Autores - Fernando_resized](https://user-images.githubusercontent.com/114114602/200706309-5a6e120d-581c-4be9-8e5b-4a1b569df055.jpg)
+*  **FERNANDO SIQUEIRA**:  @dagfernados (www.linkedin.com/in/fernando-siqueira-alves-662718168) - P.O
+
+![Autores - Karoline_resized](https://user-images.githubusercontent.com/114114602/200706317-bd09de22-dbf1-4842-b161-a5669d382ece.jpg)
+*  **KAROLINE DE PAULA**: @keronferreira (www.linkedin.com/in/karoline-ferreira-3168a514a)
+
+![Autores - Ricardo_resized](https://user-images.githubusercontent.com/114114602/200706319-b231ccb8-ea60-4813-8cf4-a08893b1fb10.jpg)
+*  **RICARDO DE JESUS**: @350869 (www.linkedin.com/in/ricardo-moura-3381b821b)
+
+![Autores - Diego_resized](https://user-images.githubusercontent.com/114114602/200706314-3c6f38ce-d05f-49d0-93e9-67d264224de4.jpg)
+*  **AYRTON DIEGO**: @xxxayrton (www.linkedin.com/in/ayrton-nogueira-8b8550249)
+
+![Autores - Edson_resized](https://user-images.githubusercontent.com/114114602/200706316-7a5629ed-185c-4c8c-af36-23f3562e3eca.jpg)
+*  **EDSON INEAS**: (www.linkedin.com/in/edson-junior-092314224)
  
 
 **Obrigado por nos visitar, good coding!**
