@@ -24,7 +24,7 @@ Interação disponilizada através de aplicação via Power Apps
 > Link direto para o protótipo da Sprint 3: https://tinyurl.com/AppSprint3
 
 # Dashboard Interativo da Cadeia Produtiva apresentada pelo Grupo: 
-A apresentação elaborada pelo grupo pode ser encontrada através do link: [disponível em breve]
+A apresentação elaborada pelo grupo pode ser encontrada através do link: https://tinyurl.com/BISprint3
 
 # Banco de Dados do Excel utilizado no BI:
 Nesse segmento consta a planilha em excel da base de dados de importação e exportação do projeto, extraídas automaticamente do Comex Stats através do fluxo automatizado do Automate.
