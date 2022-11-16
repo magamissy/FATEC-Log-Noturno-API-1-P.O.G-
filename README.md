@@ -80,22 +80,22 @@ O objetivo final do projeto é criar uma base de dados automatizada e interativa
  
 # AUTORES
  
- ![Autores - Miss_resized](https://user-images.githubusercontent.com/114114602/200706315-f4500d80-6bf9-43af-8e0b-bcbb3524d501.jpg)
+![Miss](https://user-images.githubusercontent.com/114114602/202311558-3bed7f66-5888-482f-affa-718e5c89ec72.png)
 * **ANA CAROLINA RAMOS**: @magamissy (www.linkedin.com/in/ramosac) - Scrum Master
 
-![Autores - Fernando_resized](https://user-images.githubusercontent.com/114114602/200706309-5a6e120d-581c-4be9-8e5b-4a1b569df055.jpg)
+![Fernando](https://user-images.githubusercontent.com/114114602/202311554-1e3aa967-118f-4d32-9b3d-56993939e9a0.png)
 *  **FERNANDO SIQUEIRA**:  @dagfernados (www.linkedin.com/in/fernando-siqueira-alves-662718168) - P.O
 
-![Autores - Karoline_resized](https://user-images.githubusercontent.com/114114602/200706317-bd09de22-dbf1-4842-b161-a5669d382ece.jpg)
+![Keron](https://user-images.githubusercontent.com/114114602/202311557-c3455f20-2d26-491c-8822-6cd7f6de9437.png)
 *  **KAROLINE FERREIRA**: @keronferreira (www.linkedin.com/in/karoline-ferreira-3168a514a)
 
-![Autores - Ricardo_resized](https://user-images.githubusercontent.com/114114602/200706319-b231ccb8-ea60-4813-8cf4-a08893b1fb10.jpg)
+![Ricardo](https://user-images.githubusercontent.com/114114602/202311543-88a8fa81-82fa-4c98-978e-30b2fe8e283b.png)
 *  **RICARDO DE JESUS**: @350869 (www.linkedin.com/in/ricardo-moura-3381b821b)
 
-![Autores - Diego_resized](https://user-images.githubusercontent.com/114114602/200706314-3c6f38ce-d05f-49d0-93e9-67d264224de4.jpg)
+![Dieg](https://user-images.githubusercontent.com/114114602/202311548-2936949e-b4be-4375-8b69-7d0fbda107a7.png)
 *  **AYRTON DIEGO**: @xxxayrton (www.linkedin.com/in/ayrton-nogueira-8b8550249)
 
-![Autores - Edson_resized](https://user-images.githubusercontent.com/114114602/200706316-7a5629ed-185c-4c8c-af36-23f3562e3eca.jpg)
+![Edson](https://user-images.githubusercontent.com/114114602/202311551-c2a7257b-5730-427e-b895-d9161f7851a4.png)
 *  **EDSON INEAS**: (www.linkedin.com/in/edson-junior-092314224)
  
 
