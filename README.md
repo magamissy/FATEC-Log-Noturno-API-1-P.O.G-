@@ -65,6 +65,7 @@ O objetivo final do projeto é criar uma base de dados automatizada e interativa
   - Repositório: https://github.com/magamissy/FATEC-Log-Noturno-API-1-P.O.G- 
   - Sprint 1: https://github.com/magamissy/FATEC-Log-Noturno-API-1-P.O.G-/blob/head/Sprint%201.md
   - Sprint 2: https://github.com/magamissy/FATEC-Log-Noturno-API-1-P.O.G-/blob/head/Sprint%202.md
+  - Sprint 3: https://github.com/magamissy/FATEC-Log-Noturno-API-1-P.O.G-/blob/head/Sprint%203.md
   
     _Em casos de falha do funcionamento dos arquivos e aplicações presentes, por favor contatar
  um membro de nossa equipe diretamente ao invés de usar o issue tracker._
