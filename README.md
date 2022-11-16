@@ -86,7 +86,7 @@ O objetivo final do projeto é criar uma base de dados automatizada e interativa
 *  **FERNANDO SIQUEIRA**:  @dagfernados (www.linkedin.com/in/fernando-siqueira-alves-662718168) - P.O
 
 ![Autores - Karoline_resized](https://user-images.githubusercontent.com/114114602/200706317-bd09de22-dbf1-4842-b161-a5669d382ece.jpg)
-*  **KAROLINE DE PAULA**: @keronferreira (www.linkedin.com/in/karoline-ferreira-3168a514a)
+*  **KAROLINE FERREIRA**: @keronferreira (www.linkedin.com/in/karoline-ferreira-3168a514a)
 
 ![Autores - Ricardo_resized](https://user-images.githubusercontent.com/114114602/200706319-b231ccb8-ea60-4813-8cf4-a08893b1fb10.jpg)
 *  **RICARDO DE JESUS**: @350869 (www.linkedin.com/in/ricardo-moura-3381b821b)
