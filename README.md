@@ -30,7 +30,7 @@ Aqui estão as ferramentas que usamos no desenvolvimento desse projeto.
 *	Banco de dados estruturado inserido na Power Plataform
 * Criação de mapa interativo da Cadeia Produtiva
 * Principais países de origem das importações da Cadeia Produtiva (com detalhamento de volumes importados)
-* Principais países de destina das exportações da Cadeia Produtiva (com detalhamento de volumes exportados)
+* Principais países de destino das exportações da Cadeia Produtiva (com detalhamento de volumes exportados)
 
 * Sprint 3:
 >    Presentation 16/11
