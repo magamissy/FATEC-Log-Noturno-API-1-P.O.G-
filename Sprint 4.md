@@ -22,6 +22,10 @@ Interação disponilizada através de aplicação via Power Apps
 # Dashboard Interativo da Cadeia Produtiva apresentada pelo Grupo: 
 A apresentação elaborada pelo grupo pode ser encontrada através do link: [link indiponível no momento]
 
+#Relatório do Projeto:
+Foi elaborado pelo grupo um relatório com o detalhamento do nosso desempenho e avanço no projeto, nele você compreenderá de maneira geral todos os nossos objetivos e conquistas até o presente momento!
+> Link do Relatório Final do Projeto: [link indiponível no momento]
+
 # Banco de Dados do Excel utilizado no BI:
 Nesse segmento consta a planilha em excel da base de dados de importação e exportação do projeto, extraídas automaticamente do Comex Stats através do fluxo automatizado do Automate.
 > Link da Base de Dados Utilizada nessa etapa do projeto: [link indiponível no momento]
